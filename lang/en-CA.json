@@ -1,0 +1,72 @@
+{
+  "ui": {
+    "pressEnter":      "Press Enter to continue",
+    "invalidOption":   "Not a valid option",
+    "chooseLanguage":  "Choose a language:"
+  },
+  "enemy": {
+    "names": {
+      "1": "Bricklayer",
+      "2": "Paperman",
+      "3": "Scissors dude",
+      "4": "A Printer",
+      "5": "Cement Mixer",
+      "6": "Edgelord"
+    },
+    "types": {
+      "1": "Rock",
+      "2": "Paper",
+      "3": "Scissors"
+    }
+  },
+  "attack": {
+    "names": {
+      "1": "Rock",
+      "2": "Paper",
+      "3": "Scissors",
+      "4": "Boulder",
+      "5": "Cardboard",
+      "6": "Comically Large Scissors"
+    },
+    "disabled": "DISABLED",
+    "used":     "USED"
+  },
+  "hud": {
+    "playerHp":        "Titako Nakama - HP: {hp}",
+    "enemiesThisTurn": "Antichrists this turn:",
+    "attacks":         "Attacks:",
+    "turn":            "Turn: {turn}",
+    "chooseAttack":    "Choose your attack:",
+    "enemyEliminated": " - eliminated",
+    "playerLine":      "Titako Nakama: {hp}",
+    "win":             "win :)",
+    "lose":            "lose :("
+  },
+  "story": {
+    "scene1": [
+      "Your name is Titako Nakama, you are a master of the ancient Jankenpon martial arts.",
+      "Your life is peaceful and you spend your days in your sewer dojo.",
+      "You have taught many rodents in this temple but none of them were able to graduate.",
+      "Their remains might help your diet (you practice recycling),",
+      "but it still shames you to teach these idiots",
+      "It's time to look for talent in a different place, maybe a scrapyard"
+    ],
+    "scene2": [
+      "You gather up all you need for your trip and begin saying goodbye to your home",
+      "Looking over your dojo for the last time you relive all the memories,",
+      "days oversseing your apprentices, afternoons with Jeferson your pet bull,",
+      "in your last look over your home you see, from the corner of your eye, your pipe.",
+      "\"almost forgot\" you say, extending a hand.",
+      "before putting it in your plastic bag you take a look inside",
+      "and realize there's some leftover from the last time you smoked",
+      "For the last time in this place you open your lighter and start listening to the pops"
+    ],
+    "scene3": [
+      "Some minutes later you wake up and with tears in your face you climb manhole ladder for the last time.",
+      "You wipe the tears from your face while your eyes adjust to the daylight, an in this moment you see them.",
+      "The antichrist, {numEnemies} of them, staring at you with disgust in their eyes.",
+      "\"I HATE THE ANTICHRIST\", you scream as your bag hits the ground",
+      "they aproach while you ready yourself for the greatest battle of your life"
+    ]
+  }
+}

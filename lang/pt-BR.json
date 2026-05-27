@@ -1,0 +1,72 @@
+{
+  "ui": {
+    "pressEnter":      "Enter para continuar",
+    "invalidOption":   "Não esta dentro das opcoes",
+    "chooseLanguage":  "Escolha o idioma:"
+  },
+  "enemy": {
+    "names": {
+      "1": "Pedreiro",
+      "2": "Papeleiro",
+      "3": "Tesoureiro",
+      "4": "Impressora",
+      "5": "Betoneira",
+      "6": "Guilhotina"
+    },
+    "types": {
+      "1": "Pedra",
+      "2": "Papel",
+      "3": "Tesoura"
+    }
+  },
+  "attack": {
+    "names": {
+      "1": "Pedra",
+      "2": "Papel",
+      "3": "Tesoura",
+      "4": "Pedrão",
+      "5": "Papelão",
+      "6": "Tesourão"
+    },
+    "disabled": "DESABILITADO",
+    "used":     "USADO"
+  },
+  "hud": {
+    "playerHp":        "Titako Nakama - Vida: {hp}",
+    "enemiesThisTurn": "Anticristos neste turno:",
+    "attacks":         "Ataques:",
+    "turn":            "Turno: {turn}",
+    "chooseAttack":    "Escolha seu ataque:",
+    "enemyEliminated": " - eliminado",
+    "playerLine":      "Titako Nakama: {hp}",
+    "win":             "ganhou :)",
+    "lose":            "perdeu :("
+  },
+  "story": {
+    "scene1": [
+      "Seu nome é Titako Nakama, você é um mestre das artes marciais Jankenpon.",
+      "Sua vida é pacifica e você passa seus dias meditando em seu dojo no esgoto.",
+      "Você já ensinou muitos roedores nesse templo mas nenhum conseguiu se formar.",
+      "Os restos deles podem ajudar na sua dieta, (você pratica reciclagem),",
+      "mas ainda te da desgosto ensinar tamanhos imbecis",
+      "É hora de procurar talento em uma nova região, possivelmente um lixão"
+    ],
+    "scene2": [
+      "Você prepara tudo que vai precisar na viagem e começa a dizer adeus ao seu lar",
+      "Vendo seu dojo pela ultima vez você revive todas as memórias,",
+      "dias supervisando seus aprendizes, tardes gastas com Jeferson, seu boi de estimação,",
+      "é olhando o ambiente pela ultima vez que você vê do canto do olho seu cachimbo.",
+      "\"quase esqueci disso\" você diz estendendo a mão.",
+      "antes de colocar no seu sacolão você da uma olhada dentro",
+      "e percebe que ainda tem restos da ultima vez que você fumou",
+      "Pela ultima vez nesse lugar você acende seu isqueiro e começa a ouvir os estourinhos"
+    ],
+    "scene3": [
+      "Alguns minutos depois você acorda e com lagrimas nos olhos sobe as escadas do bueiro pela ultima vez.",
+      "Você limpa o choro do rosto enquanto seus olhos se ajustam à luz do dia, e é nesse momento que você vê eles.",
+      "O Anticristo, {numEnemies} deles, te encarando com nojo no rosto.",
+      "\"EU ODEIO O ANTICRISTO\", você grita e solta a sacola com seus pertences",
+      "eles se aproximam enquanto você se prepara para a maior batalha de sua vida"
+    ]
+  }
+}

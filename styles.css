@@ -1,0 +1,39 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #000;
+    color: #fff;
+    font-family: monospace;
+    font-size: 13px;
+    line-height: 1.2;
+    min-height: 100vh;
+  }
+
+  #terminal {
+    padding: 4px 6px;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  #input-line {
+    display: flex;
+    padding: 0 6px 4px;
+  }
+
+  #prompt {
+    white-space: pre;
+    flex-shrink: 0;
+  }
+
+  #cmd-input {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-family: monospace;
+    font-size: 13px;
+    line-height: 1.2;
+    flex: 1;
+    caret-color: #fff;
+    padding: 0;
+  }
